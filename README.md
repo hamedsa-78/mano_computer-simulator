@@ -5,6 +5,7 @@ if you got erroe "JNI" ، just extract the project then  open Main.java file and
 in line 192 of Main.java file
 you can see Demo of running this program in Demo of program folder
 
-[![Watch the video](](https://github.com/ss53213/mano_computer-simulator/blob/main/Demo%20of%20program/media4_Zm7t8lRC.compressed.mp4)
+![caption](https://github.com/ss53213/mano_computer-simulator/blob/main/Demo%20of%20program/media4_Zm7t8lRC.compressed.mp4)
+
 
 
